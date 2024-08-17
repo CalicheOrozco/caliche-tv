@@ -2,10 +2,6 @@
 
 http://181.78.105.146:2000/play/a04a/index.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="Caricaturas",- 290 CartoonNetwork
-
-http://181.78.105.146:2000/play/a03k/index.m3u8
-
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/716bgBLYxYL._AC_UF894,1000_QL80_.jpg", Elementos | REGIOFLIX
 
 http://notabasica.com/612132/Elemental.2023.lati.mp4
@@ -34,10 +30,6 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/
 
 http://181.78.105.146:2000/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7", 27-286 NICKELODEON
-
-http://181.78.105.146:2000/play/a014/index.m3u8
-
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sQckQRt17VaWbo39GIu0TMOiszq.jpg",28 Dias Exterminio (2012)
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/28%20days%20later.mkv&token=TecnotvGen0&f=.m3u8
@@ -49,10 +41,6 @@ http://181.78.105.146:2000/play/a03g/index.m3u8
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7LwSrvFA0gz1KAlcrGcinoQPene.jpg",30 Días de oscuridad (2007)
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/30%20days%20of%20night.mkv&token=TecnotvGen0&f=.m3u8
-
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7", 30-214 TNTSE
-
-http://181.78.105.146:2000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-shift="-6"  group-title="Canales de Peliculas", 31-370 TNT
 
@@ -414,7 +402,7 @@ http://notabasica.com/612132/Cube.2021.lati.mp4
 
 http://181.189.243.251:8000/play/a0o1/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", ATRES SERIES HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Series", ATRES SERIES HD
 
 http://200.59.188.3:8000/play/a015
 
@@ -470,11 +458,11 @@ http://45.166.92.22:58001/play/a02n/index.m3u8
 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0qe.png" group-title="TV", AZ click HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0qe.png" group-title="Otros Canales", AZ click HD
 
 http://181.189.243.251:8000/play/a0qe/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", AZ click HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", AZ click HD
 
 http://204.157.251.250:8001/play/a00e/index.m3u8
 
@@ -510,7 +498,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/baby%20driver.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0r3.png" group-title="TV", Baby First
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0r3.png" group-title="Caricaturas", Baby First
 
 http://181.189.243.251:8000/play/a0r3/index.m3u8
 
@@ -518,11 +506,11 @@ http://181.189.243.251:8000/play/a0r3/index.m3u8
 
 http://181.189.243.251:8000/play/a0ns/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", BabyFirst
+#EXTINF:-1 tvg-shift="-3"  group-title="Caricaturas", BabyFirst
 
 http://177.93.46.163:8000/play/a00g
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", BabyFirst
+#EXTINF:-1 tvg-shift="-4"  group-title="Caricaturas", BabyFirst
 
 http://200.59.188.3:8000/play/a05o
 
@@ -714,10 +702,6 @@ http://181.189.243.251:8000/play/a0p6/index.m3u8
 
 http://200.59.188.3:8000/play/a02w
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7", Canal 27 GT
-
-http://181.78.105.146:2000/play/a08x/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0rs.png" group-title="TV", Canal 3 - GUA
 
 http://181.189.243.251:8000/play/a0rs/index.m3u8
@@ -758,11 +742,11 @@ http://181.189.243.251:8000/play/a0rr/index.m3u8
 
 http://45.166.92.22:58001/play/a05d/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", Canal 7 HD CR
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Canal 7 HD CR
 
 http://204.157.251.250:8001/play/a001/index.m3u8
 
-#EXTINF:-1 group-title="TV10", Canal 7 HD CR
+#EXTINF:-1 group-title="Otros Canales", Canal 7 HD CR
 
 http://45.166.92.22:58001/play/a059/index.m3u8
 
@@ -778,11 +762,11 @@ http://181.189.243.251:8000/play/a0rp/index.m3u8
 
 http://181.189.243.251:8000/play/a0rq/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Canal Caracol
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Canal Caracol
 
 http://177.93.46.163:8000/play/a01n
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Canal Caracol
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Canal Caracol
 
 http://200.59.188.3:8000/play/a039
 
@@ -794,11 +778,11 @@ http://181.189.243.251:8000/play/a0oy/index.m3u8
 
 http://200.59.188.3:8000/play/a07t
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",CANAL DE LAS ESTRELLAS
+#EXTINF:-1 tvg-shift="-6"  group-title="Nacional",CANAL DE LAS ESTRELLAS
 
 http://181.78.105.146:2000/play/a00g/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Canal del Congreso
+#EXTINF:-1 tvg-shift="-3"  group-title="Nacional", Canal del Congreso
 
 http://177.93.46.163:8000/play/a01q
 
@@ -810,23 +794,23 @@ http://177.93.46.163:8000/play/a019
 
 http://200.59.188.3:8000/play/a09h
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Canal Institucional
+#EXTINF:-1 tvg-shift="-3"  group-title="Nacional", Canal Institucional
 
 http://177.93.46.163:8000/play/a01p
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Canal RCN
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Canal RCN
 
 http://177.93.46.163:8000/play/a01o
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Canal RCN
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Canal RCN
 
 http://200.59.188.3:8000/play/a03a
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Canal Uno
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Canal Uno
 
 http://177.93.46.163:8000/play/a01l
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Canal Uno
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Canal Uno
 
 http://200.59.188.3:8000/play/a037
 
@@ -838,7 +822,7 @@ http://181.78.105.146:2000/play/a00j/index.m3u8
 
 http://200.59.188.3:8000/play/a0ee
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Canela Novelas
+#EXTINF:-1 tvg-shift="-4"  group-title="Telenovelas", Canela Novelas
 
 http://200.59.188.3:8000/play/a0ei
 
@@ -850,7 +834,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=notabasica.com/612132/Sing.2.202
 
 http://notabasica.com/612132/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Capital
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Capital
 
 http://177.93.46.163:8000/play/a01x
 
@@ -990,11 +974,11 @@ http://200.59.188.3:8000/play/a0fv
 
 http://45.166.92.22:58001/play/a02c/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Cinecanal
+#EXTINF:-1 tvg-shift="-3"  group-title="Canales de Peliculas", Cinecanal
 
 http://177.93.46.163:8000/play/a007
 
-#EXTINF:-1 group-title="TV10", CineCanal
+#EXTINF:-1 group-title="Canales de Peliculas", CineCanal
 
 http://45.166.92.22:58001/play/a02f/index.m3u8
 
@@ -1009,10 +993,6 @@ http://200.59.188.3:8000/play/a01x
 #EXTINF:-1 group-title="TV10", CINECANAL HD
 
 http://45.166.92.22:58001/play/a04b/index.m3u8
-
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",CineCanal O
-
-http://181.78.105.146:2000/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-shift="-3"  group-title="Canales de Peliculas", Cinemax
 
@@ -1034,11 +1014,11 @@ http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=cinemundo_plus
 
 http://200.59.188.3:8000/play/a0fu
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", City TV
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", City TV
 
 http://177.93.46.163:8000/play/a01w
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", City TV
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", City TV
 
 http://200.59.188.3:8000/play/a03o
 
@@ -1082,11 +1062,11 @@ http://notabasica.com/612132/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
 
 http://200.59.188.3:8000/play/a00o
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", CNN Espanol
+#EXTINF:-1 tvg-shift="-3"  group-title="Deportes", CNN Espanol
 
 http://177.93.46.163:8000/play/a00l
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", CNN Espanol
+#EXTINF:-1 tvg-shift="-4"  group-title="Deportes", CNN Espanol
 
 http://200.59.188.3:8000/play/a06d
 
@@ -1145,10 +1125,6 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/clos.anios.k
 #EXTINF:-1 tvg-shift="-4"  group-title="TV8", ConCiencia TV
 
 http://200.59.188.3:8000/play/a08t
-
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",Congreso
-
-http://181.78.105.146:2000/play/a046/index.m3u8
 
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uqhT6uOVMgo7ODnZLnYzGiyln2j.jpg",Contacto (1997)
 
@@ -1270,15 +1246,15 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/destino%20final%205.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0ok.png" group-title="TV", DHE
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0ok.png" group-title="Otros Canales", DHE
 
 http://181.189.243.251:8000/play/a0ok/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0qd.png" group-title="TV", DHE HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0qd.png" group-title="Otros Canales", DHE HD
 
 http://181.189.243.251:8000/play/a0qd/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", DHE HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", DHE HD
 
 http://204.157.251.250:8001/play/a049/index.m3u8
 
@@ -1302,17 +1278,13 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/dime.lo.que.
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/dime.lo.que.quieras.latino.2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0sr.png" group-title="TV", DISC THEATHER HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0sr.png" group-title="Musica", DISC THEATHER HD
 
 http://181.189.243.251:8000/play/a0sr/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", DISC THEATHER HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Musica", DISC THEATHER HD
 
 http://204.157.251.250:8001/play/a02r/index.m3u8
-
-#EXTINF:-1 tvg-shift="-6"  group-title="Documentales",Discovery
-
-http://181.78.105.146:2000/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0sa.png" group-title="Documentales", Discovery Channel
 
@@ -1342,11 +1314,11 @@ http://200.59.188.3:8000/play/a01e
 
 http://200.59.188.3:8000/play/a031
 
-#EXTINF:-1 group-title="TV10", Discovery Home & Health
+#EXTINF:-1 group-title="Estilo de Vida", Discovery Home & Health
 
 http://45.166.92.22:58001/play/a027/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Discovery ID
+#EXTINF:-1 tvg-shift="-3"  group-title="Documentales", Discovery ID
 
 http://177.93.46.163:8000/play/a01f
 
@@ -1406,19 +1378,19 @@ http://200.59.188.3:8000/play/a045
 
 http://45.166.92.22:58001/play/a026/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0tc.png" group-title="TV", Discovery World HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0tc.png" group-title="Documentales", Discovery World HD
 
 http://181.189.243.251:8000/play/a0tc/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", Discovery World HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Documentales", Discovery World HD
 
 http://204.157.251.250:8001/play/a03s/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Discovery World HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Documentales", Discovery World HD
 
 http://200.59.188.3:8000/play/a01w
 
-#EXTINF:-1 group-title="TV10", Discovery World HD
+#EXTINF:-1 group-title="Documentales", Discovery World HD
 
 http://45.166.92.22:58001/play/a01p/index.m3u8
 
@@ -1458,10 +1430,6 @@ http://181.78.105.146:2000/play/a03j/index.m3u8
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/distrit%209.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="Comedias", Distrito Comedia
-
-http://181.78.105.146:2000/play/a08t/index.m3u8
-
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6qpYwWq6KxuLTjmLfBVcGtjdz4g.jpg",DIVINA SEñAL
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/divina.senal.latino2023.mkv&token=TecnotvGen0&f=.m3u8
@@ -1498,27 +1466,27 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/independence%20day%20-%20resurgence.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", E Entertainment
+#EXTINF:-1 tvg-shift="-3"  group-title="Entretenimiento", E Entertainment
 
 http://177.93.46.163:8000/play/a012
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0s7.png" group-title="TV", E!
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0s7.png" group-title="Entretenimiento", E!
 
 http://181.189.243.251:8000/play/a0s7/index.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",E!
+#EXTINF:-1 tvg-shift="-6"  group-title="Entretenimiento",E!
 
 http://181.78.105.146:2000/play/a03i/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0q5.png" group-title="TV", E! Entertairment HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0q5.png" group-title="Entretenimiento", E! Entertairment HD
 
 http://181.189.243.251:8000/play/a0q5/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", E! Entertairment HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Entretenimiento", E! Entertairment HD
 
 http://204.157.251.250:8001/play/a005/index.m3u8
 
-#EXTINF:-1 group-title="TV10", E! Entertairment HD
+#EXTINF:-1 group-title="Entretenimiento", E! Entertairment HD
 
 http://45.166.92.22:58001/play/a00n/index.m3u8
 
@@ -1966,11 +1934,11 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/embrion%202020.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Enlace
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Enlace
 
 http://177.93.46.163:8000/play/a00f
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Enlace
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Enlace
 
 http://200.59.188.3:8000/play/a05m
 
@@ -1998,11 +1966,11 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/i%20spit%20on%20your%20grave%203.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Esne TV
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Esne TV
 
 http://177.93.46.163:8000/play/a02d
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Esne TV
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Esne TV
 
 http://200.59.188.3:8000/play/a046
 
@@ -2033,10 +2001,6 @@ http://181.189.243.251:8000/play/a0sf/index.m3u8
 #EXTINF:-1 tvg-shift="-3"  group-title="Deportes", ESPN 2
 
 http://177.93.46.163:8000/play/a00s
-
-#EXTINF:-1 tvg-shift="-6"  group-title="Deportes",ESPN 2
-
-http://181.78.105.146:2000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0va.png" group-title="Deportes", ESPN 2 HD
 
@@ -2138,10 +2102,6 @@ http://45.166.92.22:58001/play/a05u/index.m3u8
 
 http://200.59.188.3:8000/play/a0gh
 
-#EXTINF:-1 tvg-shift="-6"  group-title="Deportes",ESPN3
-
-http://181.78.105.146:2000/play/a03n/index.m3u8
-
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",Estación Zombie 1 (2016)
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/train%20to%20busan.mkv&token=TecnotvGen0&f=.m3u8
@@ -2166,15 +2126,15 @@ http://notabasica.com/612132/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
 
 http://181.189.243.251:8000/play/a0r6/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0qb.png" group-title="TV", Europa HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0qb.png" group-title="Otros Canales", Europa HD
 
 http://181.189.243.251:8000/play/a0qb/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", Europa HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Europa HD
 
 http://204.157.251.250:8001/play/a00b/index.m3u8
 
-#EXTINF:-1 group-title="TV10", Europa HD
+#EXTINF:-1 group-title="Otros Canales", Europa HD
 
 http://45.166.92.22:58001/play/a00t/index.m3u8
 
@@ -2326,10 +2286,6 @@ http://45.166.92.22:58001/play/a04t/index.m3u8
 
 http://200.59.188.3:8000/play/a02k
 
-#EXTINF:-1 tvg-shift="-6"  group-title="Deportes", Fox Deportes
-
-http://181.78.105.146:2000/play/a093/index.m3u8
-
 #EXTINF:-1 group-title="TV10", FOX NEWS HD
 
 http://45.166.92.22:58001/play/a04p/index.m3u8
@@ -2406,6 +2362,10 @@ http://notabasica.com/612132/Fresh.2022.lati.mp4
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/fuga.dereinas.latino.2023.mkv&token=TecnotvGen0&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0t3.png" group-title="Otros Canales", FUOtros Canales HD CR
+
+http://181.189.243.251:8000/play/a0t3/index.m3u8
+
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",Furia de titanes 1 (2010)
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas4k/clash%20of%20the%20titans.mkv&token=TecnotvGen0&f=.m3u8
@@ -2418,15 +2378,11 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas4k/wr
 
 http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=futurama_mania_
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0t3.png" group-title="TV", FUTV HD CR
-
-http://181.189.243.251:8000/play/a0t3/index.m3u8
-
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", FUTV HD CR
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", FUTV HD CR
 
 http://204.157.251.250:8001/play/a03j/index.m3u8
 
-#EXTINF:-1 group-title="TV10", FUTV HD CR
+#EXTINF:-1 group-title="Otros Canales", FUTV HD CR
 
 http://45.166.92.22:58001/play/a065/index.m3u8
 
@@ -2538,19 +2494,19 @@ http://181.189.243.251:8000/play/a0od/index.m3u8
 
 http://181.189.243.251:8000/play/a0oc/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0o3.png" group-title="TV", Golf Channel
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0o3.png" group-title="Otros Canales", Golf Channel
 
 http://181.189.243.251:8000/play/a0o3/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0qg.png" group-title="TV", Golf Channel HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0qg.png" group-title="Otros Canales", Golf Channel HD
 
 http://181.189.243.251:8000/play/a0qg/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", Golf Channel HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Golf Channel HD
 
 http://204.157.251.250:8001/play/a04c/index.m3u8
 
-#EXTINF:-1 group-title="TV10", Golf Channel HD
+#EXTINF:-1 group-title="Otros Canales", Golf Channel HD
 
 http://45.166.92.22:58001/play/a064/index.m3u8
 
@@ -2630,7 +2586,7 @@ http://177.93.46.163:8000/play/a01z
 
 http://200.59.188.3:8000/play/a03r
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", HBO 2
+#EXTINF:-1 tvg-shift="-3"  group-title="Canales de Peliculas", HBO 2
 
 http://177.93.46.163:8000/play/a00m
 
@@ -2638,7 +2594,7 @@ http://177.93.46.163:8000/play/a00m
 
 http://200.59.188.3:8000/play/a027
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", HBO Family
+#EXTINF:-1 tvg-shift="-3"  group-title="Canales de Peliculas", HBO Family
 
 http://177.93.46.163:8000/play/a00p
 
@@ -2666,11 +2622,11 @@ http://200.59.188.3:8000/play/a020
 
 http://45.166.92.22:58001/play/a03s/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", HBO Plus
+#EXTINF:-1 tvg-shift="-3"  group-title="Canales de Peliculas", HBO Plus
 
 http://177.93.46.163:8000/play/a00n
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", HBO Plus
+#EXTINF:-1 tvg-shift="-4"  group-title="Canales de Peliculas", HBO Plus
 
 http://200.59.188.3:8000/play/a06m
 
@@ -2786,10 +2742,6 @@ http://181.189.243.251:8000/play/a0px/index.m3u8
 
 http://45.166.92.22:58001/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",History2
-
-http://181.78.105.146:2000/play/a00v/index.m3u8
-
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",HOBBS AND SHAW
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=38.18.238.38/hdx/Fast.and.Furious.Presenm3u8.Hobbs.and.Shaw.2019.mkv&token=TecnotvGen0&f=.m3u8
@@ -2810,19 +2762,19 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/hijos.de.per
 
 http://181.78.105.146:2000/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", HOLA TV HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", HOLA TV HD
 
 http://200.59.188.3:8000/play/a00z
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0st.png" group-title="TV", HOLA! TV HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0st.png" group-title="Otros Canales", HOLA! Otros Canales HD
 
 http://181.189.243.251:8000/play/a0st/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", HOLA! TV HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", HOLA! TV HD
 
 http://204.157.251.250:8001/play/a02t/index.m3u8
 
-#EXTINF:-1 group-title="TV10", HOLA! TV HD
+#EXTINF:-1 group-title="Otros Canales", HOLA! TV HD
 
 http://45.166.92.22:58001/play/a016/index.m3u8
 
@@ -2830,15 +2782,15 @@ http://45.166.92.22:58001/play/a016/index.m3u8
 
 http://181.189.243.251:8000/play/a0nz/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0vn.png" group-title="TV", Home & Health HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0vn.png" group-title="Estilo de Vida", Home & Health HD
 
 http://181.189.243.251:8000/play/a0vn/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", Home & Health HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Estilo de Vida", Home & Health HD
 
 http://204.157.251.250:8001/play/a02s/index.m3u8
 
-#EXTINF:-1 group-title="TV10", Home & Health HD
+#EXTINF:-1 group-title="Estilo de Vida", Home & Health HD
 
 http://45.166.92.22:58001/play/a015/index.m3u8
 
@@ -2846,7 +2798,7 @@ http://45.166.92.22:58001/play/a015/index.m3u8
 
 http://181.189.243.251:8000/play/a0nx/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", HomeandHealth
+#EXTINF:-1 tvg-shift="-3"  group-title="Estilo de Vida", HomeandHealth
 
 http://177.93.46.163:8000/play/a01i
 
@@ -2914,7 +2866,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.81/nuevo/hablame.dual
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/i%20am%20mother%202019.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", I-Sat
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", I-Sat
 
 http://177.93.46.163:8000/play/a009
 
@@ -2949,10 +2901,6 @@ http://200.59.188.3:8000/play/a0au
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qiAM7Y8xF8wJDDsjeSuLgzyFGmd.jpg",INFELICES PARA SIEMPRE
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/infelices.psiempre.latino.2023.mkv&token=TecnotvGen0&f=.m3u8
-
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",IngenioTV
-
-http://181.78.105.146:2000/play/a04i/index.m3u8
 
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",INSIDE
 
@@ -3394,7 +3342,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/leo.dual.202
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/leo.dual.2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pl.png" group-title="TV", LIFE TIME
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pl.png" group-title="Estilo de Vida", LIFE TIME
 
 http://181.189.243.251:8000/play/a0pl/index.m3u8
 
@@ -3402,15 +3350,15 @@ http://181.189.243.251:8000/play/a0pl/index.m3u8
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/life%20w.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Lifetime
+#EXTINF:-1 tvg-shift="-3"  group-title="Estilo de Vida", Lifetime
 
 http://177.93.46.163:8000/play/a00h
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",Lifetime
+#EXTINF:-1 tvg-shift="-6"  group-title="Estilo de Vida",Lifetime
 
 http://181.78.105.146:2000/play/a01i/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Lifetime
+#EXTINF:-1 tvg-shift="-4"  group-title="Estilo de Vida", Lifetime
 
 http://200.59.188.3:8000/play/a05p
 
@@ -3842,6 +3790,30 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/misterio.en.
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/misterio.en.venecia.dual2023.mkv&token=TecnotvGen0&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0rf.png" group-title="Musica", MMusica 00s
+
+http://181.189.243.251:8000/play/a0rf/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0sw.png" group-title="Musica", MMusica 00s HD
+
+http://181.189.243.251:8000/play/a0sw/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0po.png" group-title="Musica", MMusica 80s
+
+http://181.189.243.251:8000/play/a0po/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pz.png" group-title="Musica", MMusica HD
+
+http://181.189.243.251:8000/play/a0pz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pn.png" group-title="Musica", MMusica Hits
+
+http://181.189.243.251:8000/play/a0pn/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0sv.png" group-title="Musica", MMusica SIM HD
+
+http://181.189.243.251:8000/play/a0sv/index.m3u8
+
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kpTqWqLYcf1uErnx5VXLah4EWJZ.jpg",MONEY SHOT
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/money.shot.dual2023.mkv&token=TecnotvGen0&f=.m3u8
@@ -3858,55 +3830,31 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/monsterhigh.
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85:80/nuevo/monstruos.2023dual.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", MTV
+#EXTINF:-1 tvg-shift="-3"  group-title="Musica", MTV
 
 http://177.93.46.163:8000/play/a00a
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0rf.png" group-title="TV", MTV 00s
-
-http://181.189.243.251:8000/play/a0rf/index.m3u8
-
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", MTV 00s
+#EXTINF:-1 tvg-shift="-4"  group-title="Musica", MTV 00s
 
 http://200.59.188.3:8000/play/a014
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0sw.png" group-title="TV", MTV 00s HD
-
-http://181.189.243.251:8000/play/a0sw/index.m3u8
-
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", MTV 00s HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Musica", MTV 00s HD
 
 http://204.157.251.250:8001/play/a02w/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0po.png" group-title="TV", MTV 80s
-
-http://181.189.243.251:8000/play/a0po/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pz.png" group-title="TV", MTV HD
-
-http://181.189.243.251:8000/play/a0pz/index.m3u8
-
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", MTV HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Musica", MTV HD
 
 http://200.59.188.3:8000/play/a02x
-
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pn.png" group-title="TV", MTV Hits
-
-http://181.189.243.251:8000/play/a0pn/index.m3u8
 
 #EXTINF:-1 tvg-shift="-4"  group-title="TV8", MTV LIVE HD
 
 http://200.59.188.3:8000/play/a01i
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0sv.png" group-title="TV", MTV SIM HD
-
-http://181.189.243.251:8000/play/a0sv/index.m3u8
-
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", MTV SIM HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Musica", MTV SIM HD
 
 http://204.157.251.250:8001/play/a02v/index.m3u8
 
-#EXTINF:-1 group-title="TV10", MTV SIM HD
+#EXTINF:-1 group-title="Musica", MTV SIM HD
 
 http://45.166.92.22:58001/play/a018/index.m3u8
 
@@ -3929,10 +3877,6 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/la.mujer.rey
 #EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0og.png" group-title="TV", Multimedios
 
 http://181.189.243.251:8000/play/a0og/index.m3u8
-
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",Multimedios
-
-http://181.78.105.146:2000/play/a039/index.m3u8
 
 #EXTINF:-1 group-title="Otros Canales", MULTIMEDIOS MTY
 
@@ -3998,10 +3942,6 @@ http://204.157.251.250:8001/play/a03o/index.m3u8
 
 http://200.59.188.3:8000/play/a01v
 
-#EXTINF:-1 tvg-shift="-6"  group-title="Documentales",NatGeo
-
-http://181.78.105.146:2000/play/a01l/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pk.png" group-title="Documentales", National Geographic
 
 http://181.189.243.251:8000/play/a0pk/index.m3u8
@@ -4046,11 +3986,11 @@ http://177.93.46.163:8000/play/a02b
 
 http://200.59.188.3:8000/play/a044
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0so.png" group-title="TV", Nick SIM HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0so.png" group-title="Otros Canales", Nick SIM HD
 
 http://181.189.243.251:8000/play/a0so/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", Nick SIM HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Nick SIM HD
 
 http://204.157.251.250:8001/play/a02p/index.m3u8
 
@@ -4162,10 +4102,6 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/ojosknoven.l
 
 http://181.78.105.146:2000/play/a03a/index.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="Caricaturas",OnceKids
-
-http://181.78.105.146:2000/play/a04f/index.m3u8
-
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",OPPEN HEIMER
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/oppenheimer.2023.dual.mkv&token=TecnotvGen0&f=.m3u8
@@ -4230,10 +4166,6 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/paradisecity
 
 http://181.189.243.251:8000/play/a0ol/index.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="Canales de Peliculas",Paramount
-
-http://181.78.105.146:2000/play/a01s/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0t9.png" group-title="Canales de Peliculas", Paramount HD
 
 http://181.189.243.251:8000/play/a0t9/index.m3u8
@@ -4250,19 +4182,19 @@ http://200.59.188.3:8000/play/a023
 
 http://45.166.92.22:58001/play/a01l/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0v6.png" group-title="TV", Pasiones HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0v6.png" group-title="Telenovelas", Pasiones HD
 
 http://181.189.243.251:8000/play/a0v6/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", Pasiones HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Telenovelas", Pasiones HD
 
 http://204.157.251.250:8001/play/a03t/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Pasiones HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Telenovelas", Pasiones HD
 
 http://200.59.188.3:8000/play/a00x
 
-#EXTINF:-1 group-title="TV10", Pasiones HD
+#EXTINF:-1 group-title="Telenovelas", Pasiones HD
 
 http://45.166.92.22:58001/play/a01q/index.m3u8
 
@@ -4546,15 +4478,15 @@ http://200.59.188.3:8000/play/a01q
 
 http://200.59.188.3:8000/play/a0ab
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0r5.png" group-title="TV", RCN Novelas
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0r5.png" group-title="Telenovelas", RCN Novelas
 
 http://181.189.243.251:8000/play/a0r5/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", RCN Novelas
+#EXTINF:-1 tvg-shift="-3"  group-title="Telenovelas", RCN Novelas
 
 http://177.93.46.163:8000/play/a01e
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", RCN Novelas
+#EXTINF:-1 tvg-shift="-4"  group-title="Telenovelas", RCN Novelas
 
 http://200.59.188.3:8000/play/a07q
 
@@ -4846,7 +4778,7 @@ http://181.189.243.251:8000/play/a0rm/index.m3u8
 
 http://181.189.243.251:8000/play/a0pd/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Senal Colombia
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Senal Colombia
 
 http://177.93.46.163:8000/play/a01r
 
@@ -4885,10 +4817,6 @@ http://200.59.188.3:8000/play/a090
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/shy_ch_eurydice_large.png",shy ch eurydice
 
 http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=shy_ch_eurydice
-
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",Siete
-
-http://181.78.105.146:2000/play/a00i/index.m3u8
 
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",Silent Hill 1 (2006)
 
@@ -4990,10 +4918,6 @@ http://181.189.243.251:8000/play/a0s5/index.m3u8
 
 http://177.93.46.163:8000/play/a021
 
-#EXTINF:-1 tvg-shift="-6"  group-title="Canales de Peliculas",SONY
-
-http://181.78.105.146:2000/play/a002/index.m3u8
-
 #EXTINF:-1 tvg-shift="-4"  group-title="Canales de Peliculas", SONY Comp
 
 http://200.59.188.3:8000/play/a0ca
@@ -5018,7 +4942,7 @@ http://181.189.243.251:8000/play/a0qc/index.m3u8
 
 http://204.157.251.250:8001/play/a00c/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Sony Novelas
+#EXTINF:-1 tvg-shift="-4"  group-title="Telenovelas", Sony Novelas
 
 http://200.59.188.3:8000/play/a0aa
 
@@ -5094,11 +5018,11 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=199.188.103.26/rombwgshgfhgdsjr/
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.81/nuevo/spykids.armagedon.dual2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", STAR CHANNEL
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", STAR CHANNEL
 
 http://177.93.46.163:8000/play/a00b
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", STAR CHANNEL
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", STAR CHANNEL
 
 http://200.59.188.3:8000/play/a05f
 
@@ -5114,19 +5038,19 @@ http://200.59.188.3:8000/play/a02v
 
 http://45.166.92.22:58001/play/a048/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0qf.png" group-title="TV", Star TVE HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0qf.png" group-title="Otros Canales", Star Otros CanalesE HD
 
 http://181.189.243.251:8000/play/a0qf/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", Star TVE HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Star TVE HD
 
 http://204.157.251.250:8001/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", STAR TVE HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", STAR TVE HD
 
 http://200.59.188.3:8000/play/a025
 
-#EXTINF:-1 group-title="TV10", Star TVE HD
+#EXTINF:-1 group-title="Otros Canales", Star TVE HD
 
 http://45.166.92.22:58001/play/a00x/index.m3u8
 
@@ -5214,15 +5138,15 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/suzume.dual.
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/suzume.dual.2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0s9.png" group-title="TV", SyFy
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0s9.png" group-title="Canales de Peliculas", SyFy
 
 http://181.189.243.251:8000/play/a0s9/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", SyFy
+#EXTINF:-1 tvg-shift="-3"  group-title="Canales de Peliculas", SyFy
 
 http://177.93.46.163:8000/play/a00i
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", SyFy
+#EXTINF:-1 tvg-shift="-4"  group-title="Canales de Peliculas", SyFy
 
 http://200.59.188.3:8000/play/a05q
 
@@ -5254,23 +5178,23 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85:80/nuevo/taz.odise
 
 http://181.189.243.251:8000/play/a0pv/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pj.png" group-title="TV", TBS
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pj.png" group-title="Entretenimiento", TBS
 
 http://181.189.243.251:8000/play/a0pj/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", TBS
+#EXTINF:-1 tvg-shift="-3"  group-title="Entretenimiento", TBS
 
 http://177.93.46.163:8000/play/a01g
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", TCM
+#EXTINF:-1 tvg-shift="-3"  group-title="Canales de Peliculas", TCM
 
 http://177.93.46.163:8000/play/a00c
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", TCM
+#EXTINF:-1 tvg-shift="-4"  group-title="Canales de Peliculas", TCM
 
 http://200.59.188.3:8000/play/a05g
 
-#EXTINF:-1 group-title="TV10", TCM
+#EXTINF:-1 group-title="Canales de Peliculas", TCM
 
 http://45.166.92.22:58001/play/a03l/index.m3u8
 
@@ -5302,19 +5226,19 @@ http://204.157.251.250:8001/play/a002/index.m3u8
 
 http://181.189.243.251:8000/play/a0p1/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Teleantioquia
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Teleantioquia
 
 http://177.93.46.163:8000/play/a025
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Telecafe
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Telecafe
 
 http://177.93.46.163:8000/play/a02h
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Telecaribe
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Telecaribe
 
 http://177.93.46.163:8000/play/a02f
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0qu.png" group-title="TV", Telecentro - RD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0qu.png" group-title="Otros Canales", Telecentro - RD
 
 http://181.189.243.251:8000/play/a0qu/index.m3u8
 
@@ -5326,7 +5250,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=notabasica.com/612132/El.Telefon
 
 http://notabasica.com/612132/El.Telefono.Negro.SRREGIO.NET.mkv
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Teleislas
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Teleislas
 
 http://177.93.46.163:8000/play/a01v
 
@@ -5334,43 +5258,43 @@ http://177.93.46.163:8000/play/a01v
 
 http://181.189.243.251:8000/play/a0rz/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pf.png" group-title="TV", Telemundo
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pf.png" group-title="Telenovelas", Telemundo
 
 http://181.189.243.251:8000/play/a0pf/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Telemundo
+#EXTINF:-1 tvg-shift="-3"  group-title="Telenovelas", Telemundo
 
 http://177.93.46.163:8000/play/a01c
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Telemundo
+#EXTINF:-1 tvg-shift="-4"  group-title="Telenovelas", Telemundo
 
 http://200.59.188.3:8000/play/a07p
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0q9.png" group-title="TV", Telemundo HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0q9.png" group-title="Telenovelas", Telemundo HD
 
 http://181.189.243.251:8000/play/a0q9/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", Telemundo HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Telenovelas", Telemundo HD
 
 http://204.157.251.250:8001/play/a009/index.m3u8
 
-#EXTINF:-1 group-title="TV10", Telemundo HD
+#EXTINF:-1 group-title="Telenovelas", Telemundo HD
 
 http://45.166.92.22:58001/play/a00r/index.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7", Telemundo Miami
+#EXTINF:-1 tvg-shift="-6"  group-title="Telenovelas", Telemundo Miami
 
 http://181.78.105.146:2000/play/a096/index.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7", TELENOVELAS
+#EXTINF:-1 tvg-shift="-6"  group-title="Telenovelas", TELENOVELAS
 
 http://181.78.105.146:2000/play/a08d/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Telenovelas
+#EXTINF:-1 tvg-shift="-4"  group-title="Telenovelas", Telenovelas
 
 http://200.59.188.3:8000/play/a0fj
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Telepacifico
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Telepacifico
 
 http://177.93.46.163:8000/play/a027
 
@@ -5390,7 +5314,7 @@ http://181.189.243.251:8000/play/a0qr/index.m3u8
 
 http://181.189.243.251:8000/play/a0of/index.m3u8
 
-#EXTINF:-1 tvg-id="TelevisaVeracruz.mx" tvg-logo="https://i.imgur.com/7UsilfH.png" group-title="",Televisa Veracruz
+#EXTINF:-1 tvg-id="TelevisaVeracruz.mx" group-title="Veracruz" tvg-logo="https://i.imgur.com/7UsilfH.png" group-title="",Televisa Veracruz
 
 https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
@@ -5521,23 +5445,23 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/tin.tina.202
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/tin.tina.2023.cast.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0sd.png" group-title="Canales de Peliculas", TLC
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0sd.png" group-title="Estilo de Vida", TLC
 
 http://181.189.243.251:8000/play/a0sd/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="Canales de Peliculas", TLC
+#EXTINF:-1 tvg-shift="-3"  group-title="Estilo de Vida", TLC
 
 http://177.93.46.163:8000/play/a017
 
-#EXTINF:-1 tvg-shift="-6"  group-title="Canales de Peliculas",TLC
+#EXTINF:-1 tvg-shift="-6"  group-title="Estilo de Vida",TLC
 
 http://181.78.105.146:2000/play/a03h/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="Canales de Peliculas", TLC
+#EXTINF:-1 tvg-shift="-4"  group-title="Estilo de Vida", TLC
 
 http://200.59.188.3:8000/play/a07k
 
-#EXTINF:-1 group-title="Canales de Peliculas", TLC
+#EXTINF:-1 group-title="Estilo de Vida", TLC
 
 http://45.166.92.22:58001/play/a04o/index.m3u8
 
@@ -5581,31 +5505,31 @@ http://200.59.188.3:8000/play/a010
 
 http://45.166.92.22:58001/play/a013/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0uf.png" group-title="TV", TNT Novelas
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0uf.png" group-title="Telenovelas", TNT Novelas
 
 http://181.189.243.251:8000/play/a0uf/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", TNT Novelas HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Telenovelas", TNT Novelas HD
 
 http://200.59.188.3:8000/play/a02r
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pi.png" group-title="Canales de Peliculas", TNT Series
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pi.png" group-title="Series", TNT Series
 
 http://181.189.243.251:8000/play/a0pi/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0ta.png" group-title="Canales de Peliculas", TNT Series HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0ta.png" group-title="Series", TNT Series HD
 
 http://181.189.243.251:8000/play/a0ta/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="Canales de Peliculas", TNT Series HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Series", TNT Series HD
 
 http://204.157.251.250:8001/play/a04y/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="Canales de Peliculas", TNT Series HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Series", TNT Series HD
 
 http://200.59.188.3:8000/play/a01n
 
-#EXTINF:-1 group-title="Canales de Peliculas", TNT Series HD
+#EXTINF:-1 group-title="Series", TNT Series HD
 
 http://45.166.92.22:58001/play/a01m/index.m3u8
 
@@ -5661,7 +5585,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/transformers
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/transformers.despertar.dlas.bestias.2023dual.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Trece
+#EXTINF:-1 tvg-shift="-3"  group-title="Nacional", Trece
 
 http://177.93.46.163:8000/play/a02i
 
@@ -5669,7 +5593,7 @@ http://177.93.46.163:8000/play/a02i
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/triple%20frontier%202018.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", TRO
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", TRO
 
 http://177.93.46.163:8000/play/a01u
 
@@ -5712,10 +5636,6 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/tu.navidad.o
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zswSOwzHmP90XXsbdcAIKhchOKL.jpg",TU NAVIDAD O LA MíA 2
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/tu.navidad.ola.mia2.dual.2024.mkv&token=TecnotvGen0&f=.m3u8
-
-#EXTINF:-1 tvg-shift="-6"  group-title="Deportes", TUDN
-
-http://181.78.105.146:2000/play/a08j/index.m3u8
 
 #EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tufortunatv_large.png",tufortunatv
 
@@ -5849,10 +5769,6 @@ http://181.78.105.146:2000/play/a08f/index.m3u8
 
 http://177.93.46.163:8000/play/a008
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",Universal
-
-http://181.78.105.146:2000/play/a03d/index.m3u8
-
 #EXTINF:-1 tvg-shift="-4"  group-title="TV8", Universal
 
 http://200.59.188.3:8000/play/a05a
@@ -5861,7 +5777,7 @@ http://200.59.188.3:8000/play/a05a
 
 http://200.59.188.3:8000/play/a01h
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", UNIVERSAL CINEMA ESTE HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Canales de Peliculas", UNIVERSAL CINEMA ESTE HD
 
 http://204.157.251.250:8001/play/a03w/index.m3u8
 
@@ -5881,15 +5797,15 @@ http://177.93.46.163:8000/play/a00u
 
 http://200.59.188.3:8000/play/a06u
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0t1.png" group-title="Canales de Peliculas", UNIVERSAL COMEDY HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0t1.png" group-title="Comedias", UNIVERSAL COMEDY HD
 
 http://181.189.243.251:8000/play/a0t1/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="Canales de Peliculas", UNIVERSAL COMEDY HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Comedias", UNIVERSAL COMEDY HD
 
 http://204.157.251.250:8001/play/a031/index.m3u8
 
-#EXTINF:-1 group-title="Canales de Peliculas", UNIVERSAL COMEDY HD
+#EXTINF:-1 group-title="Comedias", UNIVERSAL COMEDY HD
 
 http://45.166.92.22:58001/play/a05q/index.m3u8
 
@@ -5937,27 +5853,27 @@ http://177.93.46.163:8000/play/a00t
 
 http://200.59.188.3:8000/play/a06t
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0sz.png" group-title="TV", UNIVERSAL REALITY HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0sz.png" group-title="Entretenimiento", UNIVERSAL REALITY HD
 
 http://181.189.243.251:8000/play/a0sz/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", UNIVERSAL REALITY HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Entretenimiento", UNIVERSAL REALITY HD
 
 http://204.157.251.250:8001/play/a02z/index.m3u8
 
-#EXTINF:-1 group-title="TV10", UNIVERSAL REALITY HD
+#EXTINF:-1 group-title="Entretenimiento", UNIVERSAL REALITY HD
 
 http://45.166.92.22:58001/play/a05p/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0v0.png" group-title="TV", Univision HD
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0v0.png" group-title="Nacional", Univision HD
 
 http://181.189.243.251:8000/play/a0v0/index.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", Univision HD
+#EXTINF:-1 tvg-shift="-3"  group-title="Nacional", Univision HD
 
 http://204.157.251.250:8001/play/a03u/index.m3u8
 
-#EXTINF:-1 group-title="TV10", Univision HD
+#EXTINF:-1 group-title="Nacional", Univision HD
 
 http://45.166.92.22:58001/play/a01r/index.m3u8
 
@@ -5973,7 +5889,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/unoparamorir
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/unoparamorir.latino.2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", UPDATE
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", UPDATE
 
 http://177.93.46.163:8000/play/a02r
 
@@ -6025,13 +5941,9 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/viaje.todo.r
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/viaje.todo.robado.latino2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", ViaX
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", ViaX
 
 http://177.93.46.163:8000/play/a018
-
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",VideRola
-
-http://181.78.105.146:2000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-shift="-4"  group-title="TV8", Vive TV 
 
@@ -6085,10 +5997,6 @@ http://181.189.243.251:8000/play/a0tk/index.m3u8
 
 http://45.166.92.22:58001/play/a049/index.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",WB
-
-http://181.78.105.146:2000/play/a01f/index.m3u8
-
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//9sA8HGHvbm9CqIJZfFmFZxgsOH6.jpg",Welcome al norte
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/wellcome.al.norte.latino2023.mkv&token=TecnotvGen0&f=.m3u8
@@ -6097,7 +6005,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/wellcome.al.
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/wellcome.al.norte.latino2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Win
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Win
 
 http://177.93.46.163:8000/play/a026
 
@@ -6177,7 +6085,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/zoey102.labo
 
 http://200.59.188.3:8000/play/a05d#EXTM3U
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Zoom
+#EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Zoom
 
 http://177.93.46.163:8000/play/a01t
 
