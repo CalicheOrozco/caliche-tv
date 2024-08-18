@@ -10,11 +10,7 @@ http://181.78.105.146:2000/play/a03k/index.m3u8
 
 http://notabasica.com/612132/Elemental.2023.lati.mp4
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/81NcnbKcqOL._AC_UF894,1000_QL80_.jpg", Guardianes de la galaxia Vol 3 | REGIOFLIX
-
-http://notabasica.com/612132/Guardianes.de.la.galaxia.Vol.3.2023.lati.mp4
-
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", 123 TV
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", 123 TV
 
 http://200.59.188.3:8000/play/a08r
 
@@ -30,7 +26,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/
 
 http://181.78.105.146:2000/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7", 27-286 NICKELODEON
+#EXTINF:-1 tvg-shift="-6"  group-title="Caricaturas", 27-286 NICKELODEON
 
 http://181.78.105.146:2000/play/a014/index.m3u8
 
@@ -46,7 +42,7 @@ http://181.78.105.146:2000/play/a03g/index.m3u8
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/30%20days%20of%20night.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7", 30-214 TNTSE
+#EXTINF:-1 tvg-shift="-6"  group-title="Canales de Peliculas", 30-214 TNTSE
 
 http://181.78.105.146:2000/play/a00m/index.m3u8
 
@@ -66,7 +62,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=notabasica.com/612132/365.Days.P
 
 http://notabasica.com/612132/365.Days.Part.III.2022.lati.mp4
 
-#EXTINF:-1 group-title="TV10", 3ABN LATINO
+#EXTINF:-1 group-title="Nacional", 3ABN LATINO
 
 http://45.166.92.22:58001/play/a04z/index.m3u8
 
@@ -74,7 +70,7 @@ http://45.166.92.22:58001/play/a04z/index.m3u8
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/444%20last%20day%20on%20earth.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", 70s Hits
+#EXTINF:-1 tvg-shift="-4"  group-title="Musica", 70s Hits
 
 http://200.59.188.3:8000/play/a07e
 
@@ -86,7 +82,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/80.for.brady.dual2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", 80s Hits
+#EXTINF:-1 tvg-shift="-4"  group-title="Musica", 80s Hits
 
 http://200.59.188.3:8000/play/a07f
 
@@ -210,7 +206,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/al.descubier
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/aladdin%202019.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", ALBA TV
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", ALBA TV
 
 http://200.59.188.3:8000/play/a08s
 
@@ -254,6 +250,10 @@ http://204.157.251.250:8001/play/a008/index.m3u8
 
 http://200.59.188.3:8000/play/a01y
 
+#EXTINF:-1 tvg-shift="-4"  group-title="Ingles", America TV HD
+
+http://200.59.188.3:8000/play/a02l
+
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//57MFWGHarg9jid7yfDTka4RmcMU.jpg",American fiction
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.81/nuevo/american.fiction.2023.dual.mkv&token=TecnotvGen0&f=.m3u8
@@ -282,7 +282,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/amen.franciscoresponde.latino2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Andalucia Cocina
+#EXTINF:-1 tvg-shift="-4"  group-title="Estilo de Vida", Andalucia Cocina
 
 http://200.59.188.3:8000/play/a0eh
 
@@ -338,7 +338,7 @@ http://181.189.243.251:8000/play/a0p2/index.m3u8
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/antman.quantumania.dual2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", ANTV
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", ANTV
 
 http://200.59.188.3:8000/play/a08p
 
@@ -426,7 +426,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/avatar2.dual2022.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Avila TV
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Avila TV
 
 http://200.59.188.3:8000/play/a092
 
@@ -558,10 +558,6 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/bigmack.gang
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/bigmack.gangstersyoro.2023dual.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Bjgtjme
-
-http://200.59.188.3:8000/play/a0c1
-
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",BLACK ADAM
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/blackadam2022..dual.mkv&token=TecnotvGen0&f=.m3u8
@@ -630,10 +626,6 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=notabasica.com/612132/Knights.of
 
 http://notabasica.com/612132/Knights.of.the.Zodiac.2023.lati.mp4
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Caillou
-
-http://200.59.188.3:8000/play/a0dz
-
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",CALABOZOS Y DRAGONES
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/calaydrag.honorentre.ladrones.dual2023.mkv&token=TecnotvGen0&f=.m3u8
@@ -646,13 +638,9 @@ http://181.189.243.251:8000/play/a0o0/index.m3u8
 
 http://181.189.243.251:8000/play/a0o8/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Canal 11
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Canal 11
 
 http://200.59.188.3:8000/play/a08z
-
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0qj.png" group-title="TV", Canal 11 - GUA
-
-http://181.189.243.251:8000/play/a0qj/index.m3u8
 
 #EXTINF:-1 group-title="España", Canal 12 - ESA
 
@@ -662,10 +650,6 @@ http://45.166.92.22:58001/play/a05h/index.m3u8
 
 http://181.189.243.251:8000/play/a0p5/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0qi.png" group-title="TV", Canal 13-GUA
-
-http://181.189.243.251:8000/play/a0qi/index.m3u8
-
 #EXTINF:-1 tvg-shift="-6"  group-title="Otros Canales",Canal 14
 
 http://181.78.105.146:2000/play/a044/index.m3u8
@@ -674,7 +658,7 @@ http://181.78.105.146:2000/play/a044/index.m3u8
 
 http://181.189.243.251:8000/play/a0r2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0ru.png" group-title="TV", Canal 2 - ESA
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0ru.png" group-title="España", Canal 2 - ESA
 
 http://181.189.243.251:8000/play/a0ru/index.m3u8
 
@@ -682,21 +666,13 @@ http://181.189.243.251:8000/play/a0ru/index.m3u8
 
 http://181.189.243.251:8000/play/a0p6/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Canal 24 Horas HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Canal 24 Horas HD
 
 http://200.59.188.3:8000/play/a02w
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7", Canal 27 GT
+#EXTINF:-1 tvg-shift="-6"  group-title="Otros Canales", Canal 27 GT
 
 http://181.78.105.146:2000/play/a08x/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0rs.png" group-title="TV", Canal 3 - GUA
-
-http://181.189.243.251:8000/play/a0rs/index.m3u8
-
-#EXTINF:-1 group-title="TV10", Canal 3 - GUA
-
-http://45.166.92.22:58001/play/a05e/index.m3u8
 
 #EXTINF:-1 group-title="TV10", Canal 3 Telesistemas HND
 
@@ -718,14 +694,6 @@ http://181.189.243.251:8000/play/a0qk/index.m3u8
 
 http://45.166.92.22:58001/play/a05g/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0rr.png" group-title="TV", Canal 7 - GUA
-
-http://181.189.243.251:8000/play/a0rr/index.m3u8
-
-#EXTINF:-1 group-title="TV10", Canal 7 - GUA
-
-http://45.166.92.22:58001/play/a05d/index.m3u8
-
 #EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Canal 7 HD CR
 
 http://204.157.251.250:8001/play/a001/index.m3u8
@@ -738,14 +706,6 @@ http://45.166.92.22:58001/play/a059/index.m3u8
 
 http://181.189.243.251:8000/play/a0ul/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0rp.png" group-title="TV", Canal Antigua - GUA
-
-http://181.189.243.251:8000/play/a0rp/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0rq.png" group-title="TV", Canal Azteca - GUA
-
-http://181.189.243.251:8000/play/a0rq/index.m3u8
-
 #EXTINF:-1 tvg-shift="-3"  group-title="Otros Canales", Canal Caracol
 
 http://177.93.46.163:8000/play/a01n
@@ -754,11 +714,11 @@ http://177.93.46.163:8000/play/a01n
 
 http://200.59.188.3:8000/play/a039
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0oy.png" group-title="TV", Canal Claro
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0oy.png" group-title="Otros Canales", Canal Claro
 
 http://181.189.243.251:8000/play/a0oy/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Canal Claro
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Canal Claro
 
 http://200.59.188.3:8000/play/a07t
 
@@ -770,11 +730,11 @@ http://181.78.105.146:2000/play/a00g/index.m3u8
 
 http://177.93.46.163:8000/play/a01q
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Canal Estrellas
+#EXTINF:-1 tvg-shift="-3"  group-title="Nacional", Canal Estrellas
 
 http://177.93.46.163:8000/play/a019
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", CANAL I
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", CANAL I
 
 http://200.59.188.3:8000/play/a09h
 
@@ -802,7 +762,7 @@ http://200.59.188.3:8000/play/a037
 
 http://181.78.105.146:2000/play/a00j/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Canela Clasicos
+#EXTINF:-1 tvg-shift="-4"  group-title="Canales de Peliculas", Canela Clasicos
 
 http://200.59.188.3:8000/play/a0ee
 
@@ -830,7 +790,7 @@ http://200.59.188.3:8000/play/a02y
 
 http://177.93.46.163:8000/play/a00d
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Cartoon Network HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Caricaturas", Cartoon Network HD
 
 http://200.59.188.3:8000/play/a022
 
@@ -970,7 +930,7 @@ http://200.59.188.3:8000/play/a01x
 
 http://45.166.92.22:58001/play/a04b/index.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",CineCanal O
+#EXTINF:-1 tvg-shift="-6"  group-title="Canales de Peliculas",CineCanal O
 
 http://181.78.105.146:2000/play/a04q/index.m3u8
 
@@ -1002,10 +962,6 @@ http://177.93.46.163:8000/play/a01w
 
 http://200.59.188.3:8000/play/a03o
 
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cityfm_large.png",cityfm
-
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=cityfm
-
 #EXTINF:-1 tvg-shift="-4"  group-title="Canales de Peliculas", Claro Cinema
 
 http://200.59.188.3:8000/play/a043
@@ -1022,11 +978,11 @@ http://200.59.188.3:8000/play/a05j
 
 http://204.157.251.250:8001/play/a058/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Classic Rock
+#EXTINF:-1 tvg-shift="-4"  group-title="Musica", Classic Rock
 
 http://200.59.188.3:8000/play/a07d
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", CLAVE
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", CLAVE
 
 http://200.59.188.3:8000/play/a08i
 
@@ -1038,7 +994,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=notabasica.com/612132/Clifford.E
 
 http://notabasica.com/612132/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Clover HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Clover HD
 
 http://200.59.188.3:8000/play/a00o
 
@@ -1050,7 +1006,7 @@ http://177.93.46.163:8000/play/a00l
 
 http://200.59.188.3:8000/play/a06d
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0o7.png" group-title="TV", CNN Internacional
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0o7.png" group-title="Noticias", CNN Internacional
 
 http://181.189.243.251:8000/play/a0o7/index.m3u8
 
@@ -1069,10 +1025,6 @@ http://45.166.92.22:58001/play/a036/index.m3u8
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/714W6w6bY+L._AC_SY741_.jpg", COCO | REGIOFLIX
 
 http://notabasica.com/612132/coco.mkv#EXTM3U
-
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", COLOMBEIA
-
-http://200.59.188.3:8000/play/a08q
 
 #EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0s0.png" group-title="TV", Color Vision 9 - RD
 
@@ -1102,11 +1054,11 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/como.matar.a
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/clos.anios.knosquedan.latino2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", ConCiencia TV
+#EXTINF:-1 tvg-shift="-4"  group-title="Documentales", ConCiencia TV
 
 http://200.59.188.3:8000/play/a08t
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",Congreso
+#EXTINF:-1 tvg-shift="-6"  group-title="Nacional",Congreso
 
 http://181.78.105.146:2000/play/a046/index.m3u8
 
@@ -1470,11 +1422,11 @@ http://204.157.251.250:8001/play/a005/index.m3u8
 
 http://45.166.92.22:58001/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", E! HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Entretenimiento", E! HD
 
 http://200.59.188.3:8000/play/a02h
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Easy Listening
+#EXTINF:-1 tvg-shift="-4"  group-title="Ingles", Easy Listening
 
 http://200.59.188.3:8000/play/a088
 
@@ -2110,7 +2062,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=notabasica.com/612132/Eternals.2
 
 http://notabasica.com/612132/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0r6.png" group-title="TV", EURO Channel
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0r6.png" group-title="España", EURO Channel
 
 http://181.189.243.251:8000/play/a0r6/index.m3u8
 
@@ -2150,11 +2102,11 @@ http://45.166.92.22:58001/play/a050/index.m3u8
 
 http://200.59.188.3:8000/play/a08g
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0tu.png" group-title="TV", Exa TV
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0tu.png" group-title="Series", Exa Series
 
 http://181.189.243.251:8000/play/a0tu/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0sg.png" group-title="TV", Exa TV
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0sg.png" group-title="Series", Exa Series
 
 http://181.189.243.251:8000/play/a0sg/index.m3u8
 
@@ -2266,19 +2218,15 @@ http://notabasica.com/612132/Flash.2023.lati.mp4
 
 http://45.166.92.22:58001/play/a04t/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Food Network HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Ingles", Food Network HD
 
 http://200.59.188.3:8000/play/a02k
-
-#EXTINF:-1 tvg-shift="-6"  group-title="Deportes", Fox Deportes
-
-http://181.78.105.146:2000/play/a093/index.m3u8
 
 #EXTINF:-1 group-title="Otros Canales", FOX NEWS HD
 
 http://45.166.92.22:58001/play/a04p/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Fox Sports 1 HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Comedias", Fox Sports 1 HD
 
 http://200.59.188.3:8000/play/a032
 
@@ -2286,7 +2234,7 @@ http://200.59.188.3:8000/play/a032
 
 http://177.93.46.163:8000/play/a01a
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", FOX Sports 2 HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Comedias", FOX Sports 2 HD
 
 http://200.59.188.3:8000/play/a01k
 
@@ -2442,10 +2390,6 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.81/nuevo/ghosted.dual
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/glassonion.2022.dual.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", GLOBOVISION
-
-http://200.59.188.3:8000/play/a093
-
 #EXTINF:-1 tvg-shift="-6"  group-title="Deportes", Gol TV
 
 http://181.78.105.146:2000/play/a094/index.m3u8
@@ -2489,18 +2433,6 @@ http://204.157.251.250:8001/play/a04c/index.m3u8
 #EXTINF:-1 group-title="Otros Canales", Golf Channel HD
 
 http://45.166.92.22:58001/play/a064/index.m3u8
-
-#EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",GUARDIANES DE LA GALAXIA ESPECIAL FIESTAS
-
-http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/glagalaxia.especial.navidad.2022.dual.mkv&token=TecnotvGen0&f=.m3u8
-
-#EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",Guardianes de la galaxia Vol 3
-
-http://clubtv.link/AG12/key4513/peliculas.php?c=notabasica.com/612132/Guardianes.de.la.galaxia.Vol.3.2023.lati.mp4&token=TecnotvGen0&f=.m3u8
-
-#EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",GUARDIANES DE LA GALAXIA VOLUMEN 3
-
-http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/gdelagalaxia3.dual.2023.mkv&token=TecnotvGen0&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0r7.png" group-title="Documentales", H2
 
@@ -2630,7 +2562,7 @@ http://181.189.243.251:8000/play/a0ov/index.m3u8
 
 http://45.166.92.22:58001/play/a03w/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", HBO XTREME HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Canales de Peliculas", HBO XTREME HD
 
 http://200.59.188.3:8000/play/a035
 
@@ -2645,10 +2577,6 @@ http://181.189.243.251:8000/play/a0os/index.m3u8
 #EXTINF:-1 group-title="Canales de Peliculas", HBO2 HD
 
 http://45.166.92.22:58001/play/a03t/index.m3u8
-
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", HCH
-
-http://200.59.188.3:8000/play/a08j
 
 #EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0ve.png" group-title="TV", HCH Backup
 
@@ -2690,7 +2618,7 @@ http://181.189.243.251:8000/play/a0sc/index.m3u8
 
 http://177.93.46.163:8000/play/a006
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", History Channel HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Documentales", History Channel HD
 
 http://200.59.188.3:8000/play/a00e
 
@@ -2702,7 +2630,7 @@ http://181.189.243.251:8000/play/a0px/index.m3u8
 
 http://45.166.92.22:58001/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",History2
+#EXTINF:-1 tvg-shift="-6"  group-title="Documentales",History2
 
 http://181.78.105.146:2000/play/a00v/index.m3u8
 
@@ -2758,7 +2686,7 @@ http://204.157.251.250:8001/play/a02s/index.m3u8
 
 http://45.166.92.22:58001/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0nx.png" group-title="TV", Home Garden Latino
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0nx.png" group-title="Estilo de Vida", Home Garden Latino
 
 http://181.189.243.251:8000/play/a0nx/index.m3u8
 
@@ -2790,15 +2718,15 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/hotel%20transilvania%203.mkv&token=TecnotvGen0&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0rg.png" group-title="Otros Canales", HOtros Canales
+
+http://181.189.243.251:8000/play/a0rg/index.m3u8
+
 #EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
 
 http://regioflix.club/apoyo.mp4
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0rg.png" group-title="TV", HTV
-
-http://181.189.243.251:8000/play/a0rg/index.m3u8
-
-#EXTINF:-1 group-title="TV10", HTV
+#EXTINF:-1 group-title="Otros Canales", HTV
 
 http://45.166.92.22:58001/play/a051/index.m3u8
 
@@ -2834,11 +2762,11 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/
 
 http://177.93.46.163:8000/play/a009
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", ID HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Documentales", ID HD
 
 http://200.59.188.3:8000/play/a018
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",Imagen
+#EXTINF:-1 tvg-shift="-6"  group-title="Nacional",Imagen
 
 http://181.78.105.146:2000/play/a00h/index.m3u8
 
@@ -2858,7 +2786,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/indianajones
 
 https://od.lk/s/NV8xODY2OTYzNzRf/Indiana%20Jones%20y%20el%20dial%20del%20destino%20Online%202023.mp4&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Infast
+#EXTINF:-1 tvg-shift="-4"  group-title="Musica", Infast
 
 http://200.59.188.3:8000/play/a0au
 
@@ -2866,7 +2794,7 @@ http://200.59.188.3:8000/play/a0au
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/infelices.psiempre.latino.2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",IngenioTV
+#EXTINF:-1 tvg-shift="-6"  group-title="Otros Canales",IngenioTV
 
 http://181.78.105.146:2000/play/a04i/index.m3u8
 
@@ -2922,10 +2850,6 @@ http://notabasica.com/612132/Isabelle.2018.1080p-dual-lat-SRREGIO.NET.mkv
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/it%20chapter%20two%202019.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", IVC
-
-http://200.59.188.3:8000/play/a0eu
-
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg",JACK IN THE BOX 2
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/jackinthebox2.eldespertar.dual.2023.mkv&token=TecnotvGen0&f=.m3u8
@@ -2949,10 +2873,6 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",JOHN WICK 4
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/johnwick4.dual.2023.mkv&token=TecnotvGen0&f=.m3u8
-
-#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/juan_13tv_large.png",juan 13tv
-
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=juan_13tv
 
 #EXTINF:-1 tvg-shift="-6"  group-title="Documentales",Judicial
 
@@ -2986,7 +2906,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=notabasica.com/612132/JurassicWo
 
 http://notabasica.com/612132/JurassicWorldDominio.mkv
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Kanal D Drama HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Kanal D Drama HD
 
 http://200.59.188.3:8000/play/a021
 
@@ -3250,7 +3170,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20narnia%20la%20travesia%20del%20viajero%20del%20alba.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Las Estrellas HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Nacional", Las Estrellas HD
 
 http://200.59.188.3:8000/play/a02z
 
@@ -3270,11 +3190,11 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/momiasy.el.a
 
 http://181.189.243.251:8000/play/a0rd/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Latin Pop
+#EXTINF:-1 tvg-shift="-4"  group-title="Musica", Latin Pop
 
 http://200.59.188.3:8000/play/a087
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Latina HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Musica", Latina HD
 
 http://200.59.188.3:8000/play/a02m
 
@@ -3486,7 +3406,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/los.tipos.ma
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/los.tipos.malos.una.navidad.muymala.dual2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Love Nature HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Ingles", Love Nature HD
 
 http://200.59.188.3:8000/play/a02t
 
@@ -3590,7 +3510,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/maria.la.div
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/after%20life%202009.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0nu.png" group-title="TV", Mas Chic
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0nu.png" group-title="Estilo de Vida", Mas Chic
 
 http://181.189.243.251:8000/play/a0nu/index.m3u8
 
@@ -3634,7 +3554,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/meg2.el.gran
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/meg2.el.gran.abismo.dual2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", MEGA HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", MEGA HD
 
 http://200.59.188.3:8000/play/a089
 
@@ -3666,7 +3586,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=notabasica.com/612132/Mentada.de
 
 http://notabasica.com/612132/Mentada.de.padre.2019.lati.mp4
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Meridiano
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Meridiano
 
 http://200.59.188.3:8000/play/a096
 
@@ -3806,7 +3726,7 @@ http://204.157.251.250:8001/play/a02w/index.m3u8
 
 http://200.59.188.3:8000/play/a02x
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", MTV LIVE HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Musica", MTV LIVE HD
 
 http://200.59.188.3:8000/play/a01i
 
@@ -3834,11 +3754,11 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/muertoxundol
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/la.mujer.rey.dual.2022.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0og.png" group-title="TV", Multimedios
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0og.png" group-title="Nacional", Multimedios
 
 http://181.189.243.251:8000/play/a0og/index.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",Multimedios
+#EXTINF:-1 tvg-shift="-6"  group-title="Nacional",Multimedios
 
 http://181.78.105.146:2000/play/a039/index.m3u8
 
@@ -3846,7 +3766,7 @@ http://181.78.105.146:2000/play/a039/index.m3u8
 
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Mundo Peq
+#EXTINF:-1 tvg-shift="-4"  group-title="Caricaturas", Mundo Peq
 
 http://200.59.188.3:8000/play/a0ed
 
@@ -3854,7 +3774,7 @@ http://200.59.188.3:8000/play/a0ed
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=38.18.238.25/nuevo/muppem3u8.mansion.hechizada.dual.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", MUSIC TV
+#EXTINF:-1 tvg-shift="-4"  group-title="Musica", MUSIC TV
 
 http://200.59.188.3:8000/play/a08h
 
@@ -3926,7 +3846,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=38.18.238.25/nuevo/navidad.de.8.
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/navidad.en.vivo.latino2022.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", New Age
+#EXTINF:-1 tvg-shift="-4"  group-title="Ingles", New Age
 
 http://200.59.188.3:8000/play/a07b
 
@@ -3938,7 +3858,7 @@ http://181.189.243.251:8000/play/a0qw/index.m3u8
 
 http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=nezradiovision
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Nick HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Caricaturas", Nick HD
 
 http://200.59.188.3:8000/play/a00r
 
@@ -4018,7 +3938,7 @@ http://notabasica.com/612132/Nope.2022.lati.mp4
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/see%20you%20yesterday%202019.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Novelisima
+#EXTINF:-1 tvg-shift="-4"  group-title="Telenovelas", Novelisima
 
 http://200.59.188.3:8000/play/a0ef
 
@@ -4030,7 +3950,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/noviembre.pa
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/noah.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", NTV
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", NTV
 
 http://200.59.188.3:8000/play/a01s
 
@@ -4086,7 +4006,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/oppenheimer.
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.81/nuevo/oppenheimer.el.dilema.delabomba.atomica.dual2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Oromar TV
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Oromar TV
 
 http://200.59.188.3:8000/play/a09f
 
@@ -4117,14 +4037,6 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/pamanderson.
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cjcrkPeQkrkEVYrd3lHWJbfBdrv.jpg",Pan Viaje a Nunca Jamás (2015)
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/pan.mkv&token=TecnotvGen0&f=.m3u8
-
-#EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/krA2iXd1PK1vhg4jeWfbSD4fSJi.jpg",Papas a la antigua
-
-http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/papas.ala.antigua.dual2023.mkv&token=TecnotvGen0&f=.m3u8
-
-#EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/krA2iXd1PK1vhg4jeWfbSD4fSJi.jpg",PAPAS A LA ANTIGUA
-
-http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/papas.ala.antigua.dual2023.mkv&token=TecnotvGen0&f=.m3u8
 
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xdmmd437QdjcCls8yCQxrH5YYM4.jpg",PARADISE CITY
 
@@ -4266,7 +4178,7 @@ http://181.189.243.251:8000/play/a0ow/index.m3u8
 
 http://45.166.92.22:58001/play/a03z/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", PLIM PLIM
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", PLIM PLIM
 
 http://200.59.188.3:8000/play/a091
 
@@ -4358,7 +4270,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=notabasica.com/612132/Chang.Can.
 
 http://notabasica.com/612132/Chang.Can.Dunk.2023.lati.mp4
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0ts.png" group-title="TV", QATAR en vivo
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0ts.png" group-title="Otros Canales", QATAR en vivo
 
 http://181.189.243.251:8000/play/a0ts/index.m3u8
 
@@ -4494,11 +4406,11 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/rec%204.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Reggae
+#EXTINF:-1 tvg-shift="-4"  group-title="Musica", Reggae
 
 http://200.59.188.3:8000/play/a07g
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Reggaeton
+#EXTINF:-1 tvg-shift="-4"  group-title="Musica", Reggaeton
 
 http://200.59.188.3:8000/play/a07h
 
@@ -4550,7 +4462,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/retribution.
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.81/nuevo/retribution.contrareloj.dual2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Retro PLus TV
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Retro PLus TV
 
 http://200.59.188.3:8000/play/a0gc
 
@@ -4598,7 +4510,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/rockdog3.dua
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/rockdog3.dual.2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Rock Latino
+#EXTINF:-1 tvg-shift="-4"  group-title="Musica", Rock Latino
 
 http://200.59.188.3:8000/play/a07i
 
@@ -4606,7 +4518,7 @@ http://200.59.188.3:8000/play/a07i
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/ruido.latino.2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Run Time
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Run Time
 
 http://200.59.188.3:8000/play/a0fr
 
@@ -4622,11 +4534,11 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/fastfuriusx.
 
 https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20Online.mp4&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Salsa Caribe
+#EXTINF:-1 tvg-shift="-4"  group-title="Musica", Salsa Caribe
 
 http://200.59.188.3:8000/play/a09y
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Salsa y Merengue
+#EXTINF:-1 tvg-shift="-4"  group-title="Musica", Salsa y Merengue
 
 http://200.59.188.3:8000/play/a085
 
@@ -4742,11 +4654,11 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/scream6.dual
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=38.18.239.160/nuevo/secrem3u8.of.songwing.dual.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0rm.png" group-title="TV", Sembrador
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0rm.png" group-title="Entretenimiento", Sembrador
 
 http://181.189.243.251:8000/play/a0rm/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pd.png" group-title="TV", SEMILLITAS
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pd.png" group-title="Entretenimiento", SEMILLITAS
 
 http://181.189.243.251:8000/play/a0pd/index.m3u8
 
@@ -4790,7 +4702,7 @@ http://200.59.188.3:8000/play/a090
 
 http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=shy_ch_eurydice
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",Siete
+#EXTINF:-1 tvg-shift="-6"  group-title="Nacional",Siete
 
 http://181.78.105.146:2000/play/a00i/index.m3u8
 
@@ -4802,7 +4714,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/silent%20hill%20revelation.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Sin Limites
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Sin Limites
 
 http://200.59.188.3:8000/play/a084
 
@@ -4854,7 +4766,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/sobreviviend
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/sobreviviendo.misxv.latino2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Solo Para Peques
+#EXTINF:-1 tvg-shift="-4"  group-title="Caricaturas", Solo Para Peques
 
 http://200.59.188.3:8000/play/a086
 
@@ -5038,7 +4950,7 @@ http://45.166.92.22:58001/play/a00x/index.m3u8
 
 http://181.78.105.146:2000/play/a097/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Stingray Concerts HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Musica", Stingray Concerts HD
 
 http://200.59.188.3:8000/play/a02j
 
@@ -5050,7 +4962,7 @@ http://177.93.46.163:8000/play/a00r
 
 http://200.59.188.3:8000/play/a06r
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Studio Universal HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Ingles", Studio Universal HD
 
 http://200.59.188.3:8000/play/a024
 
@@ -5074,11 +4986,11 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/suegros.dear
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/suegros.dearmas.tomar.dual.2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0r9.png" group-title="TV", Sun Channel
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0r9.png" group-title="Otros Canales", Sun Channel
 
 http://181.189.243.251:8000/play/a0r9/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Sun Channel HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Ingles", Sun Channel HD
 
 http://200.59.188.3:8000/play/a01c
 
@@ -5150,7 +5062,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85:80/nuevo/taz.odise
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pv.png" group-title="TV", TBN Enlace
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0pv.png" group-title="Otros Canales", TBN Enlace
 
 http://181.189.243.251:8000/play/a0pv/index.m3u8
 
@@ -5389,10 +5301,6 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/the.marvels.
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/the.marvels.dual2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1  group-title="Vix",  The Weather Channel(Es)
-
-http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=431&pid=431&token=SrRegio&f=.m3u8
-
 #EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0sn.png" group-title="Deportes", Tigo Sports HD
 
 http://181.189.243.251:8000/play/a0sn/index.m3u8
@@ -5433,15 +5341,11 @@ http://200.59.188.3:8000/play/a07k
 
 http://45.166.92.22:58001/play/a04o/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", TLT
-
-http://200.59.188.3:8000/play/a098
-
 #EXTINF:-1 tvg-shift="-4"  group-title="TV8", TLT HD
 
 http://200.59.188.3:8000/play/a09e
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", TMA
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", TMA
 
 http://200.59.188.3:8000/play/a0bz
 
@@ -5505,17 +5409,13 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/todo.sobre.m
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.81/nuevo/todo.sobre.mipadre.dual2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Toon Gogles
+#EXTINF:-1 tvg-shift="-4"  group-title="Ingles", Toon Gogles
 
 http://200.59.188.3:8000/play/a0ec
 
 #EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0s3.png" group-title="Caricaturas", Tooncast
 
 http://181.189.243.251:8000/play/a0s3/index.m3u8
-
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", TOP LATINO TV
-
-http://200.59.188.3:8000/play/a0gi
 
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rs6P8hg1BTf6AdpGlRnGE4DFlYF.jpg",Transformers 1 (2007)
 
@@ -5581,13 +5481,9 @@ http://notabasica.com/612132/Trolls%203%20-%20Se%20Arm%C3%B3%20la%20Banda.mp4
 
 http://181.189.243.251:8000/play/a0pe/index.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", TRUTV HD
+#EXTINF:-1 tvg-shift="-4"  group-title="Ingles", TRUTV HD
 
 http://200.59.188.3:8000/play/a019
-
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0us.png" group-title="TV", TSI 
-
-http://181.189.243.251:8000/play/a0us/index.m3u8
 
 #EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3oFfY1HpzJDlRzKSCBF2sA5mb9U.jpg",TU CASA O LA MIA
 
@@ -5617,11 +5513,7 @@ http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=tv777
 
 http://181.78.105.146:2000/play/a04m/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0nw.png" group-title="TV", TVChile
-
-http://181.189.243.251:8000/play/a0nw/index.m3u8
-
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", TVE
+#EXTINF:-1 tvg-shift="-4"  group-title="España", TVE
 
 http://200.59.188.3:8000/play/a05n
 
@@ -5629,15 +5521,11 @@ http://200.59.188.3:8000/play/a05n
 
 http://200.59.188.3:8000/play/a08n
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", TVFANB
-
-http://200.59.188.3:8000/play/a08y
-
 #EXTINF:-1 tvg-shift="-4"  group-title="TV8", TVN HD
 
 http://200.59.188.3:8000/play/a00v
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", TVS
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", TVS
 
 http://200.59.188.3:8000/play/a0ce
 
@@ -5877,10 +5765,6 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/urkel.salva.
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/van%20helsing.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Venevision
-
-http://200.59.188.3:8000/play/a095
-
 #EXTINF:-1 tvg-shift="-4"  group-title="TV8", Venevision HD
 
 http://200.59.188.3:8000/play/a0ak
@@ -5921,7 +5805,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/viaje.todo.r
 
 http://177.93.46.163:8000/play/a018
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",VideRola
+#EXTINF:-1 tvg-shift="-6"  group-title="Musica",VideRola
 
 http://181.78.105.146:2000/play/a04c/index.m3u8
 
@@ -5944,10 +5828,6 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=vod.tuxchannel.mx/peliculas/720/
 #EXTINF:-1 tvg-shift="-4"  group-title="TV8", VPACO TV
 
 http://200.59.188.3:8000/play/a09d
-
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", VTV
-
-http://200.59.188.3:8000/play/a08l
 
 #EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0s6.png" group-title="Canales de Peliculas", Warner
 
@@ -5973,7 +5853,7 @@ http://181.189.243.251:8000/play/a0tk/index.m3u8
 
 http://45.166.92.22:58001/play/a049/index.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="TV7",WB
+#EXTINF:-1 tvg-shift="-6"  group-title="Canales de Peliculas",WB
 
 http://181.78.105.146:2000/play/a01f/index.m3u8
 
@@ -6057,7 +5937,7 @@ http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/zoey102.labo
 
 http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/zoey102.laboda.dual2023.mkv&token=TecnotvGen0&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV8", Zona Latina
+#EXTINF:-1 tvg-shift="-4"  group-title="Otros Canales", Zona Latina
 
 http://200.59.188.3:8000/play/a05d#EXTM3U
 
@@ -6065,15 +5945,7 @@ http://200.59.188.3:8000/play/a05d#EXTM3U
 
 http://177.93.46.163:8000/play/a01t
 
-#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0nt.png" group-title="TV", ZooMoo
+#EXTINF:-1 tvg-logo="http://181.189.243.251:8000/playlist/tvg-logo/a0nt.png" group-title="Otros Canales", ZooMoo
 
 http://181.189.243.251:8000/play/a0nt/index.m3u8
-
-#EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6qR9WbXYIddZcVk6nxFULfHcKmK.jpg",ÁGUILA Y JAGUAR
-
-http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/aguila.y.jaguar.2023.latino.mkv&token=TecnotvGen0&f=.m3u8
-
-#EXTINF:-1 group-title="peliculas" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6qR9WbXYIddZcVk6nxFULfHcKmK.jpg",Águila y Jaguar
-
-http://clubtv.link/AG12/key4513/peliculas.php?c=208.88.245.85/nuevo/aguila.y.jaguar.2023.latino.mkv&token=TecnotvGen0&f=.m3u8
 
